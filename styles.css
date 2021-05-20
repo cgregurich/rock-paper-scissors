@@ -1,0 +1,18 @@
+body {
+  background-color: #ffea00;
+}
+
+.btn-div {
+  font-family: monospace;
+  font-size: 24px;
+  text-align: center;
+}
+
+input[type="image"]{
+  /* border: 1px solid black; */
+  margin: 50px 25px;
+}
+
+.buttons-div {
+  display: flex;
+}
